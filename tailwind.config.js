@@ -22,6 +22,13 @@ module.exports = {
       center: true,
       padding: "16px",
     },
+    listStyleType: {
+      none: 'none',
+      disc: 'disc',
+      decimal: 'decimal',
+      square: 'square',
+      roman: 'upper-roman',
+    },
     extend: {
       colors: {
         black: "#212b36",
